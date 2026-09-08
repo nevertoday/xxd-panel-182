@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 182"
+  short_description: "Miniature Pixel Graphic Vignette"
+  default_prompt: "Use $xxd-panel-182 to transform my photograph following the complete canonical source brief."
