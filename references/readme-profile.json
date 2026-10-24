@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 182｜Miniature Pixel Graphic Vignette: reduces the defining shapes of a photo's subject, plus a few environment clues, to a small hard-edged pixel-art graphic — visible square pixels, jagged outlines, sprite-like modules, no anti-aliasing, gradients or realistic texture — shown either as one compact scene or as a 2×2 set of related slices, floating in wide whitespace. The palette is low-saturation greys, blue-greys, charcoal and off-white with a tiny functional accent colour taken from the subject, plus a few small, neat bitmap-style words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-182 or asks for minimal pixel art, sprite-style or bitmap graphic vignettes from a photo.",
+  "short_description": "微缩像素图形小品：把照片主体压缩成硬边方块像素小图，大片留白，配少量点阵小字",
+  "zh-CN": {
+    "name": "微缩像素图形小品",
+    "tagline": "把照片主体压缩成一枚硬边方块像素小图，安静地放在大片留白里。",
+    "look": "照片里决定身份的形状、比例和方向会被留下，压缩成一枚小小的像素图形：方块像素清晰可见，轮廓带锯齿，不做抗锯齿、平滑渐变和写实质感。它可以是一个集中的微缩场景，也可以拆成 2×2 四个相关切片，分别画主体、局部、环境或动作，四周留出大片空白。底色是浅灰、蓝灰、炭灰、米白这类低饱和中性色，只在关键处点一小块原图里的标志色。文字是几处小号、规整、带复古数码感的点阵字。",
+    "traits": ["硬边像素", "2×2 切片", "中性灰调", "单点功能色", "大片留白", "点阵小字"],
+    "good": [
+      "轮廓分明、一眼能认出来的主体：一辆自行车、一只猫、一座灯塔、一盏台灯",
+      "形状简单、带标志色的物件或场景：红色邮筒、黄色出租车、一棵绿树、一把雨伞",
+      "主体加少量环境线索、适合拆成四格的照片：人和他的狗、街角和路灯、杯子和窗台"
+    ],
+    "poor": [
+      "靠细节、纹理或表情取胜的照片：人像特写、细密织物、复杂机械，压成像素后会丢掉重点",
+      "想要满版像素场景、游戏地图或游戏界面效果的需求",
+      "想要平滑渐变、写实像素画或色彩丰富画面的需求"
+    ]
+  },
+  "en": {
+    "name": "Miniature Pixel Graphic Vignette",
+    "tagline": "Compresses the subject of a photo into a small hard-edged pixel graphic set quietly in wide whitespace.",
+    "look": "The shapes, proportions and direction that make your subject recognisable are kept and squeezed into a tiny pixel graphic: square pixels you can see, jagged outlines, no anti-aliasing, smooth gradients or realistic texture. It is either one compact miniature scene or a 2×2 set of related slices showing the subject, a detail, the setting or an action, with plenty of empty space around it. The base colours are low-saturation light grey, blue-grey, charcoal and off-white, with only a small patch of the photo's signature colour at a key point. Text is a few small, neat bitmap-style words with a retro digital feel.",
+    "traits": ["Hard-edged pixels", "2×2 slices", "Neutral greys", "One functional accent", "Wide whitespace", "Bitmap type"],
+    "good": [
+      "Subjects with a clear outline you recognise at once: a bicycle, a cat, a lighthouse, a desk lamp",
+      "Simple objects or scenes with a signature colour: a red postbox, a yellow taxi, a green tree, an umbrella",
+      "A subject with a few clues about its setting that splits well into four cells: a person and their dog, a street corner and its lamp, a cup on a windowsill"
+    ],
+    "poor": [
+      "Photos that rely on detail, texture or expression, such as close-up portraits, fine fabrics or complex machinery, which lose their point once pixelated",
+      "Requests for a full-frame pixel scene, a game map or a game interface look",
+      "Requests for smooth gradients, realistic pixel painting or a colourful image"
+    ]
+  },
+  "ja": {
+    "name": "ミニチュアピクセル小品",
+    "tagline": "写真の主役を、エッジの硬い小さなピクセル図形にまとめ、広い余白に静かに置きます。",
+    "look": "主役の正体を決める形、比率、向きだけを残し、小さなピクセル図形に圧縮します。四角いピクセルがはっきり見え、輪郭はギザギザで、アンチエイリアスや滑らかなグラデーション、写実的な質感は使いません。ひとつにまとまったミニチュア場面にするか、主役、部分、環境、動作を描き分けた 2×2 の四つの関連カットにし、周りには大きな余白をとります。地色は淡いグレー、青みのグレー、チャコール、オフホワイトなどの低彩度の中間色で、要所にだけ写真の象徴的な色を小さく置きます。文字は小さく整った、レトロなデジタル感のあるドットフォントを数か所だけ添えます。",
+    "traits": ["硬いピクセル", "2×2 のカット", "中間色のグレー", "一点の機能色", "広い余白", "ドット文字"],
+    "good": [
+      "輪郭がはっきりしていて一目でわかる主役：自転車、猫、灯台、デスクランプ",
+      "形がシンプルで象徴的な色を持つ物や場面：赤いポスト、黄色いタクシー、緑の木、傘",
+      "主役に少し周囲の手がかりがあり、四つに分けやすい写真：人とその犬、街角と街灯、窓辺のカップ"
+    ],
+    "poor": [
+      "細部や質感、表情が見どころの写真：顔のアップ、細かな布地、複雑な機械はピクセル化すると要点が消えます",
+      "画面いっぱいのピクセル場面、ゲームマップ、ゲーム画面のような仕上がりを求める場合",
+      "滑らかなグラデーション、写実的なピクセル画、色数の多い画面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "미니어처 픽셀 그래픽",
+    "tagline": "사진의 주인공을 경계가 또렷한 작은 픽셀 그래픽으로 줄여 넓은 여백에 조용히 놓습니다.",
+    "look": "주인공을 알아보게 하는 형태, 비율, 방향만 남겨 작은 픽셀 그래픽으로 압축합니다. 네모난 픽셀이 그대로 보이고 윤곽은 계단처럼 각지며, 안티에일리어싱이나 부드러운 그라데이션, 사실적인 질감은 쓰지 않습니다. 하나로 모인 미니어처 장면이 되거나, 주인공, 부분, 주변, 동작을 나눠 그린 2×2 네 칸이 되며, 둘레에는 넓은 여백을 둡니다. 바탕색은 연회색, 청회색, 차콜, 오프화이트 같은 저채도 중간색이고, 핵심 지점에만 사진 속 대표 색을 작게 찍습니다. 글자는 작고 단정한 레트로 디지털 느낌의 도트 글꼴로 몇 군데만 넣습니다.",
+    "traits": ["또렷한 픽셀", "2×2 조각", "중성 회색", "한 점의 기능색", "넓은 여백", "도트 글자"],
+    "good": [
+      "윤곽이 분명해 한눈에 알아보는 주인공: 자전거, 고양이, 등대, 스탠드 조명",
+      "형태가 단순하고 대표 색이 있는 물건이나 장면: 빨간 우체통, 노란 택시, 초록 나무, 우산",
+      "주인공과 약간의 주변 단서가 있어 네 칸으로 나누기 좋은 사진: 사람과 강아지, 길모퉁이와 가로등, 창턱 위 컵"
+    ],
+    "poor": [
+      "디테일, 질감, 표정이 핵심인 사진: 얼굴 클로즈업, 촘촘한 직물, 복잡한 기계는 픽셀로 줄이면 요점이 사라집니다",
+      "화면을 꽉 채운 픽셀 장면, 게임 맵, 게임 UI 같은 결과를 원하는 경우",
+      "부드러운 그라데이션, 사실적인 픽셀화, 색이 많은 화면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد رسومي بكسلي مصغر",
+    "tagline": "يختزل العنصر الرئيسي في الصورة إلى رسم بكسلي صغير حاد الحواف يستقر بهدوء وسط فراغ واسع.",
+    "look": "تُحفظ الأشكال والنِّسب والاتجاه التي تجعل العنصر معروفاً، ثم تُضغط في رسم بكسلي صغير: مربعات بكسل ظاهرة وحواف مسنّنة، من دون تنعيم للحواف أو تدرجات ناعمة أو ملمس واقعي. يظهر إما مشهداً مصغراً واحداً متماسكاً وإما أربع لقطات مترابطة في شبكة 2×2 تُظهر العنصر وجزءاً منه ومحيطه وحركته، مع فراغ كبير حوله. الألوان الأساسية رمادي فاتح ورمادي مزرق وفحمي وأبيض مائل إلى الكريمي، مع بقعة صغيرة فقط من اللون المميز في الصورة عند نقطة مهمة. النص كلمات قليلة صغيرة ومنتظمة بخط نقطي يوحي بالعصر الرقمي القديم.",
+    "traits": ["بكسلات حادة", "لقطات 2×2", "رماديات محايدة", "لون وظيفي واحد", "فراغ واسع", "خط نقطي"],
+    "good": [
+      "عناصر واضحة الحدود تُعرف فوراً: دراجة، قطة، منارة، مصباح مكتب",
+      "أشياء أو مشاهد بسيطة الشكل لها لون مميز: صندوق بريد أحمر، سيارة أجرة صفراء، شجرة خضراء، مظلة",
+      "عنصر مع قليل من دلائل المكان يصلح للتقسيم إلى أربع خلايا: شخص وكلبه، ناصية شارع ومصباحها، فنجان على حافة نافذة"
+    ],
+    "poor": [
+      "صور تعتمد على التفاصيل أو الملمس أو تعابير الوجه، مثل الصور الشخصية القريبة والأقمشة الدقيقة والآلات المعقدة، فتفقد جوهرها عند تحويلها إلى بكسلات",
+      "طلب مشهد بكسلي يملأ الإطار أو خريطة لعبة أو مظهر واجهة ألعاب",
+      "طلب تدرجات ناعمة أو رسم بكسلي واقعي أو صورة كثيرة الألوان"
+    ]
+  }
+}

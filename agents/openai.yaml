@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 182"
-  short_description: "Miniature Pixel Graphic Vignette"
-  default_prompt: "Use $xxd-panel-182 to transform my photograph following the complete canonical source brief."
+  short_description: "微缩像素图形小品：把照片主体压缩成硬边方块像素小图，大片留白，配少量点阵小字"
+  default_prompt: "Use $xxd-panel-182 to turn my photo into Miniature Pixel Graphic Vignette artwork."

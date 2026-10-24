@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-182
-description: "Create Panel 182 raster artwork: Miniature Pixel Graphic Vignette. Use when the user invokes xxd-panel-182 or requests this specific visual language."
+description: "XXD Panel 182｜Miniature Pixel Graphic Vignette: reduces the defining shapes of a photo's subject, plus a few environment clues, to a small hard-edged pixel-art graphic — visible square pixels, jagged outlines, sprite-like modules, no anti-aliasing, gradients or realistic texture — shown either as one compact scene or as a 2×2 set of related slices, floating in wide whitespace. The palette is low-saturation greys, blue-greys, charcoal and off-white with a tiny functional accent colour taken from the subject, plus a few small, neat bitmap-style words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-182 or asks for minimal pixel art, sprite-style or bitmap graphic vignettes from a photo."
 ---
 
 # XXD Panel 182
